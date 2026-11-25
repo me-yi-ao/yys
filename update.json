@@ -1,8 +1,8 @@
 {
-  "lastCode": 102,
+  "lastCode": 100,
   "versionName": "1.1.7",
-  "log": "1.修复斗技识别异常\n2.优化寄养特殊结界卡皮肤无法识别问题\n3.新增秘闻功能\n4.新增地域鬼王功能\n5.新增狩猎逢魔功能\n6.新增一键日常功能",
+  "log": "1.修复日常「狩猎逢魔」无法识别鬼头卡死（底栏逢魔极/首领页签被错过滤）\n2.狩猎逢魔与日常活动时间放宽到 17:00-23:00\n3.撤销招人功能的时段限制，任意时间可跑\n4.新增「集结火苗」「竖排金字集结」两种集结图标识别\n5.修复寄养换结界皮肤后「结界卡/式神育成」点不到（改为按字心定位）\n6.新增打开即查更新：可忽略或立即更新（应用内下载并自动安装）",
   "apkUrl": "https://github.com/me-yi-ao/yys/raw/main/haoyue.apk",
   "apkUrlBak": "https://gh-proxy.com/https://github.com/me-yi-ao/yys/raw/main/haoyue.apk",
-  "md5": "38d013a055e32efd4065ecd94a17af00"
+  "md5": "931bd603fd0f2b91385b77ea16b0def9"
 }
