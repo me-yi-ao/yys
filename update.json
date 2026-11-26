@@ -1,8 +1,8 @@
 {
-  "lastCode": 100,
+  "lastCode": 101,
   "versionName": "1.1.7",
-  "log": "1.修复日常「狩猎逢魔」无法识别鬼头卡死（底栏逢魔极/首领页签被错过滤）\n2.狩猎逢魔与日常活动时间放宽到 17:00-23:00\n3.撤销招人功能的时段限制，任意时间可跑\n4.新增「集结火苗」「竖排金字集结」两种集结图标识别\n5.修复寄养换结界皮肤后「结界卡/式神育成」点不到（改为按字心定位）\n6.新增打开即查更新：可忽略或立即更新（应用内下载并自动安装）",
+  "log": "1. 增加一键日常功能，可签到、送友情点，收取结界、领每日免费礼包、地域鬼王、觉醒、狩猎逢魔、花合战100领取等；\n2. 增加秘闻功能；\n3. 增加狩猎逢魔功能。",
   "apkUrl": "https://github.com/me-yi-ao/yys/raw/main/haoyue.apk",
   "apkUrlBak": "https://gh-proxy.com/https://github.com/me-yi-ao/yys/raw/main/haoyue.apk",
-  "md5": "931bd603fd0f2b91385b77ea16b0def9"
+  "md5": "0f98b0b326e89d101187aec93cf6093b"
 }
