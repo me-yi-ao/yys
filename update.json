@@ -1,8 +1,8 @@
 {
-  "lastCode": 101,
-  "versionName": "1.1.7",
-  "log": "1. 增加一键日常功能，可签到、送友情点，收取结界、领每日免费礼包、地域鬼王、觉醒、狩猎逢魔、花合战100领取等；\n2. 增加秘闻功能；\n3. 增加狩猎逢魔功能。",
-  "apkUrl": "https://gh-proxy.com/https://github.com/me-yi-ao/yys/raw/main/haoyue.apk",
-  "apkUrlBak": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/raw/main/haoyue.apk",
-  "md5": "0f98b0b326e89d101187aec93cf6093b"
+  "lastCode": 103,
+  "versionName": "1.1.9",
+  "log": "1. 狩猎逢魔按文档整体重写（22 步）：第7步 36 轮弹窗点确定、第8步 协战队伍页右下菱形挑战、第16步 黑框内逢魔极鬼头 5 次后点首领鬼头 9 次、第17步 集结火苗（红蕾丝/橙蛛网两版都认）、第18步 只认右下集结挑战鼓、第21/22步 采集奖励与确认退出；\n2. 点大树回庭院改为点一次等 30 秒，不再连点，避免在庭院点到左上头像；\n3. 第11/12步回庭院后可直接继续第13步 逢魔之时，不再提前结束；\n4. 加成弹窗提为全域最高优先（点取消）；组队第6/7步 齿轮√→不再提示→确定；一键日常地域鬼王打完正确回庭院；\n5. 打开 app 自动查更新：有新版弹窗，可点忽略或立即更新，应用内下载并自动安装。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.9/haoyue.apk",
+  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.9/haoyue.apk",
+  "md5": "be1fcc8b79d85c92391f99a97078b160"
 }
