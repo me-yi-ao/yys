@@ -1,8 +1,8 @@
 {
-  "lastCode": 103,
-  "versionName": "1.1.9",
-  "log": "1. 狩猎逢魔按文档整体重写（22 步）：第7步 36 轮弹窗点确定、第8步 协战队伍页右下菱形挑战、第16步 黑框内逢魔极鬼头 5 次后点首领鬼头 9 次、第17步 集结火苗（红蕾丝/橙蛛网两版都认）、第18步 只认右下集结挑战鼓、第21/22步 采集奖励与确认退出；\n2. 点大树回庭院改为点一次等 30 秒，不再连点，避免在庭院点到左上头像；\n3. 第11/12步回庭院后可直接继续第13步 逢魔之时，不再提前结束；\n4. 加成弹窗提为全域最高优先（点取消）；组队第6/7步 齿轮√→不再提示→确定；一键日常地域鬼王打完正确回庭院；\n5. 打开 app 自动查更新：有新版弹窗，可点忽略或立即更新，应用内下载并自动安装。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.9/haoyue.apk",
-  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.9/haoyue.apk",
-  "md5": "da9d0a1e5e25d475de61de6670e1ed84"
+  "lastCode": 104,
+  "versionName": "1.1.10",
+  "log": "1. 修复「立即更新」下载中断：改为 4MB 分片、6 路并发下载，单片失败自动重试，不再整包重下；\n2. 发布包改手机专用 arm64 版，体积 115MB → 59MB，下载更快；\n3. 点「立即更新」前先检查「允许安装未知应用」，未授权先带你开开关，避免下完才被系统拦；\n4. 应用内下载失败时按钮变「浏览器下载」，用系统浏览器兜底；\n5. 更新源多镜像自动切换（gh-proxy.org / ghfast.top / ghproxy.net 等）",
+  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.10/haoyue.apk",
+  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.10/haoyue.apk",
+  "md5": "88db8f56f7c6d28a94d7bf1bc590abaf"
 }
