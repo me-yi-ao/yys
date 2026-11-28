@@ -1,8 +1,8 @@
 {
-  "lastCode": 105,
-  "versionName": "1.1.11",
-  "log": "1. 狩猎逢魔第18步：集结挑战三连点鼓仍在、点右上X回第16步的重来上限由 2 轮放宽为 6 轮（每轮 3 次×3 秒，最多点 18 次鼓）",
-  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.11/haoyue.apk",
-  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.11/haoyue.apk",
-  "md5": "add4940759cb125ed7ae7f9123428227"
+  "lastCode": 106,
+  "versionName": "1.1.12",
+  "log": "1. 寄养成功后回庭院改为左上「大树」识图一步直达（不再先点< 多退一步）；2. 好友结界寄养成功不再多退一层，确认真正回到主庭院才收尾，下一轮起跑位置正确；3. 大树/左上返回全部改为模板识图（位置+图形双识别），避免固定坐标误点玩家头像",
+  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.12/haoyue.apk",
+  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.12/haoyue.apk",
+  "md5": "c8973b8d3f6e7c0a835bb4bb5f580bb0"
 }
