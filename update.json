@@ -1,8 +1,8 @@
 {
-  "lastCode": 104,
-  "versionName": "1.1.10",
-  "log": "1. 修复「立即更新」下载中断：改为 4MB 分片、6 路并发下载，单片失败自动重试，不再整包重下；\n2. 发布包改手机专用 arm64 版，体积 115MB → 59MB，下载更快；\n3. 点「立即更新」前先检查「允许安装未知应用」，未授权先带你开开关，避免下完才被系统拦；\n4. 应用内下载失败时按钮变「浏览器下载」，用系统浏览器兜底；\n5. 更新源多镜像自动切换（gh-proxy.org / ghfast.top / ghproxy.net 等）",
-  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.10/haoyue.apk",
-  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.10/haoyue.apk",
-  "md5": "88db8f56f7c6d28a94d7bf1bc590abaf"
+  "lastCode": 105,
+  "versionName": "1.1.11",
+  "log": "1. 狩猎逢魔第18步：集结挑战三连点鼓仍在、点右上X回第16步的重来上限由 2 轮放宽为 6 轮（每轮 3 次×3 秒，最多点 18 次鼓）",
+  "apkUrl": "https://gh-proxy.org/https://github.com/me-yi-ao/yys/releases/download/v1.1.11/haoyue.apk",
+  "apkUrlBak": "https://github.com/me-yi-ao/yys/releases/download/v1.1.11/haoyue.apk",
+  "md5": "add4940759cb125ed7ae7f9123428227"
 }
